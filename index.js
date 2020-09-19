@@ -39,7 +39,7 @@ const k_muppet = {
 
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
 
-// 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
+// 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg.
 
 // Objects
 
@@ -48,4 +48,4 @@ const k_muppet = {
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
 const { song_2, song_4 } = k_muppet.k_album.the_muppet_movie
-const { k_color, k_job, k_partner } = k_muppet 
+const { k_color, k_job, k_partner } = k_muppet
